@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Data Analysis using SQL
 
-![]([https://github.com/najirh/netflix_sql_project/blob/main/logo.png](https://github.com/Rajat-Ag-2809/Pizza_sales_SQL/blob/main/Pizza-Banner.jpg.webp))
+![](https://github.com/Rajat-Ag-2809/Pizza_sales_SQL/blob/main/pizza2.jpg)
 
 ## Overview
 This project focuses on analyzing historical pizza sales data from a fictional pizza store using SQL. The dataset includes details about customer orders, pizza types, sizes, prices, and categories. The aim is to extract actionable business insights through structured queries that can help improve operational efficiency, marketing strategy, and inventory planning.
