@@ -7,16 +7,10 @@ This project focuses on analyzing historical pizza sales data from a fictional p
 
 ## Objectives
 
-- Understand Sales Patterns – Analyze order frequency, popular pizza types, and customer preferences.
-- Evaluate Revenue Performance – Identify top revenue-generating items and patterns over time.
-- Evaluate Revenue Performance – Identify top revenue-generating items and patterns over time.
-- Practice SQL Skills – Apply various SQL techniques like aggregation, joins, subqueries, window functions, and CTEs on a realistic dataset.
-
-## Dataset
-
-The data for this project is sourced from the Kaggle dataset:
-
-- *Dataset Link:* [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+- **Understand Sales Patterns** – Analyze order frequency, popular pizza types, and customer preferences.
+- **Evaluate Revenue Performance**  – Identify top revenue-generating items and patterns over time.
+- **Evaluate Revenue Performance** – Identify top revenue-generating items and patterns over time.
+- **Practice SQL Skills** – Apply various SQL techniques like aggregation, joins, subqueries, window functions, and CTEs on a realistic dataset.
 
 ## Schema
 
